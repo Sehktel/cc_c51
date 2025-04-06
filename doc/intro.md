@@ -1,7 +1,6 @@
-# Clojure Compiler for C51
+# Introduction to Clojure Compiler for C51
 
 Clojure Compiler for C51 (CCC51) is an Educational Project.
-
 ## Target 
 	AT89S4051:
 	8051-based 6-cycle microcontroller.
@@ -30,6 +29,5 @@ Clojure Compiler for C51 (CCC51) is an Educational Project.
 ## Updates
 	Checkout cc_c51 project. 
 	
-
-Copyright © 2025 Sehktel
+	@Sehktel
 
